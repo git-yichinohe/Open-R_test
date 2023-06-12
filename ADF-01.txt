@@ -1,0 +1,12 @@
+・Bender:North Osea GRANDER I.G.Co/South Belka Weapon Arsenal
+・Spec
+ーheight:5.64m
+ーlong:24.00m
+ーWeidth:15.92m
+ーheavyth:23.3t
+ーMAX Assult thrust:M2.2
+
+・Arms
+ーTactical Leasor System
+ーHyperthene/Multi purpose burst missile
+ーFuel Air-Explosive Bomb
