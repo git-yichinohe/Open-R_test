@@ -1,0 +1,15 @@
+ADFX-01/02”Morgan”
+
+・Bender:South Belka Weapon Arsenal
+・Height:5.7m/include Landing Leg
+	4.6m/storing L.L
+・Width:15.7m
+・Long:23.9m
+・Heavyth:19.6t
+・MAX Assult Thrust:M2.0
+
+・Arms
+ーMPBM
+ーTLS
+ーFAEB
+ 
